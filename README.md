@@ -38,7 +38,8 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
    git clone https://github.com/Ashutoshmore24/Basic-Calculator.git
 
    cd Basic-Calculator
-   
+--- 
+
 ### Future Enhancements
 
   - Keyboard support
