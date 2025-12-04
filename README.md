@@ -5,7 +5,7 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive UI
 - Addition, subtraction, multiplication, division
@@ -17,7 +17,7 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -25,12 +25,13 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 
 ---
 
-## 📷 Preview
+## Preview
 
+![basic_calculator1](https://github.com/user-attachments/assets/a696c450-12da-4042-bcc9-758413651a57)
 
 ---
 
-## 📂 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
@@ -38,12 +39,12 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 
    cd Basic-Calculator
    
-## Future Enhancements
+### Future Enhancements
 
   - Keyboard support
   - Scientific mode (sin, cos, log, etc.)
   - Animated UI theme
   ---
   
-### 📘 License
-MIT License — free to use and modify.
+### License
+MIT License — free to use and modify.Made purely for applying,testing & improving command on Web Technology.❤️
