@@ -6,8 +6,7 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 ---
 
 ## Features
-
-- Responsive UI
+- Animated & Responsive UI 
 - Addition, subtraction, multiplication, division
 - Decimal support
 - Percentage (%) operation
@@ -27,7 +26,8 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 
 ## Preview
 
-![basic_calculator1](https://github.com/user-attachments/assets/a696c450-12da-4042-bcc9-758413651a57)
+<img width="702" height="797" alt="calculator png" src="https://github.com/user-attachments/assets/af9bdbfd-40d4-45ae-a032-05daae12c020" />
+
 
 ---
 
@@ -44,7 +44,7 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 
   - Keyboard support
   - Scientific mode (sin, cos, log, etc.)
-  - Animated UI theme
+
   ---
   
 ### License
