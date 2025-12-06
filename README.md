@@ -1,12 +1,13 @@
 # Basic Calculator
 
 A simple calculator built using **HTML, CSS, and JavaScript**.  
-Supports basic arithmetic operations including addition, subtraction, multiplication, division, percentage, clear, delete, and decimal input.
+Supports basic arithmetic operations including addition, subtraction, multiplication, division, percentage, clear, delete, decimal input & dark/light mode.
 
 ---
 
 ## Features
-- Animated & Responsive UI 
+- Animated & Responsive UI
+- Support Dark/Light Mode
 - Addition, subtraction, multiplication, division
 - Decimal support
 - Percentage (%) operation
@@ -26,8 +27,10 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
 
 ## Preview
 
-<img width="702" height="797" alt="calculator png" src="https://github.com/user-attachments/assets/af9bdbfd-40d4-45ae-a032-05daae12c020" />
+<img width="890" height="817" alt="calculator_dark"  width="100" height="100" src="https://github.com/user-attachments/assets/076d4f8a-509e-4fbb-9889-6fc0da2ac728" />
 
+--- 
+<img width="878" height="815" alt="calculator_light" width="100" height="100" src="https://github.com/user-attachments/assets/744ee463-60bf-46e4-90de-18e09deda3b5" />
 
 ---
 
@@ -48,4 +51,4 @@ Supports basic arithmetic operations including addition, subtraction, multiplica
   ---
   
 ### License
-MIT License — free to use and modify.Made purely for applying,testing & improving command on Web Technology.❤️
+MIT License — free to use and modify.Made purely with ❤️ for applying,testing & improving command on Web Technology.
